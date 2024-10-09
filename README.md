@@ -1,6 +1,6 @@
 # AttentNet: Fully Convolutional 3D Attention for Lung Nodule Detection
 
-This repository contains the code and resources for [AttentNEt](https://arxiv.org/abs/2407.14464), an automated lung nodule detection system based on 3D convolutional attention mechanisms. AttentNet operates in two stages:
+This repository contains the code and resources for [AttentNet](https://arxiv.org/abs/2407.14464), an automated lung nodule detection system based on 3D convolutional attention mechanisms. AttentNet operates in two stages:
 1. **Region Proposal Network (RPN)**: Proposes candidate nodule locations.
 2. **False Positive (FP) Reduction**: Refines the predictions to reduce false positives.
 
