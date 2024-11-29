@@ -31,4 +31,4 @@ Clone the repository:
 - **`./RPN/main.py`**: Implements the Region Proposal Network (RPN) for generating lung nodule candidates, utilizing 3D convolutional attention for enhanced feature extraction and localization.
 - **`./FP_reduction/main.py`**: Implements the False Positive (FP) reduction stage, which refines the candidates produced by the RPN by reducing false positives, improving the overall detection accuracy.
 
-###### NOTE: this repo is work in progress and will be updated soon with more features and improvements.
+#### NOTE: this repo is work in progress and will be updated soon with more features and improvements.
